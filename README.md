@@ -57,9 +57,3 @@ Study Project/
 ├── .env.prod                      # 生产环境配置
 ├── package.json                   # 项目依赖
 └── README.md                      # 项目文档
-
-
-联系方式
-如有问题，请提交 Issue 或联系项目维护者。
-
-最后更新: 2026-03-24
